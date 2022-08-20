@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jiconfont-swing-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jiconfont-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jiconfont-font_awesome-4.7.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
