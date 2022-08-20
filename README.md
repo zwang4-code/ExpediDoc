@@ -1,3 +1,0 @@
-# ExpediDoc
-
-Database Project
