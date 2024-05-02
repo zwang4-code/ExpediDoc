@@ -1,5 +1,5 @@
 # ExpediDoc - Simplify the process of finding healthcare
-
+#### Database class project
 ## Mission
 
 This application will provide users with a comprehensive list of nearby healthcare providers, facilities, and available appointment time slots to help users navigate their local healthcare network. Healthcare providers and receptionists will be able to upload all the information to one streamlined database. With all the information, patients  will be able to sort providers by user-selected criteria (eg. providers’ location, language spoken, hours of operations, their scope of practice, accepted insurance) to find quality healthcare in a matter of seconds, instead of hours.
